@@ -1,0 +1,22 @@
+{
+    "name": "leo/bienesraicesphp",
+    "description": "proyecto classes",
+    "authors": [
+        {
+            "name": "Leonel Silvera",
+            "email": "slv3490@gmail.com"
+        }
+    ],
+    "require": {
+        "intervention/image": "^2.7",
+        "phpmailer/phpmailer": "^6.8",
+        "vlucas/phpdotenv": "^5.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Model\\" : "./models",
+            "MVC\\" : "./",
+            "Controllers\\" : "./controllers"
+        }
+    }
+}
