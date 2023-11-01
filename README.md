@@ -1,4 +1,4 @@
-#Sobre el proyecto Bienes Raíces :tw-1f3e0:
+# Sobre el proyecto Bienes Raíces :tw-1f3e0:
 El proyecto ** Bienes Raíces** ha representado una oportunidad de aprendizaje invaluable, durante la cual he adquirido un profundo conocimiento de patrones de arquitectura esenciales, como **ActiveRecord** y **Model-View-Controller (MVC)**. Además, he ganado una comprensión sólida del backend, incluyendo la administración, gestión y creación de bases de datos, así como el desarrollo e implementación de funcionalidades al proyecto.
 ## Funcionalidades
 - Validación para todas las funcionalidades relacionadas al back-end
