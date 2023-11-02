@@ -31,6 +31,9 @@ Las **tablas** y **columnas** se encontraran en la carpeta de modelos.
     protected static $columnasDB = ["id", "email", "password"];
 	protected static $tabla = "usuarios";
 
+#### Email
+Este proyecto cuenta con envíos de emails por medio de **PHPMailer** por lo que se deberá cambíar las variables de entorno dentro de la carpeta **controllers/PaginasController.php** en la seccion de contacto para que el envio de email se realice correctamente.
+
 ## Estructura
 
 #### Login
