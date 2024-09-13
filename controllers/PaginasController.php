@@ -9,7 +9,6 @@ use PHPMailer\PHPMailer\PHPMailer;
 
 class PaginasController {
     public static function index(Router $router) {
-        
         $propiedades = Propiedad::get(3);
         
         $router->render("paginas/index", [

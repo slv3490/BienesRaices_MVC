@@ -47,4 +47,8 @@ class LoginController {
 
         header("location: /");
     }
+
+    public static function createUser(Router $router) {
+        $router->render("auth/usuario");
+    }
 }

@@ -4,9 +4,9 @@
         <div class="contenido-nosotros">
             <div class="imagen">
                 <picture>
-                    <source srcset="build/img/nosotros.webp" type="image/webp">
-                    <source srcset="build/img/nosotros.jpg" type="image/jpeg">
-                    <img loading="lazy" src="build/img/nosotros.jpg" alt="Sobre Nosotros">
+                    <source srcset="/assets/fotos/David_Nahir004.webp" type="image/webp">
+                    <source srcset="/assets/fotos/David_Nahir004.jpg" type="image/jpeg">
+                    <img loading="lazy" src="/assets/fotos/David_Nahir004.jpg" alt="Sobre Nosotros">
                 </picture>
             </div>
 
